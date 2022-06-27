@@ -16,6 +16,6 @@ if __name__ == '__main__':
     print_hi('donde vives')
     print((my_function(2,5)))
 
-    x = 3
+    x = 30
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
